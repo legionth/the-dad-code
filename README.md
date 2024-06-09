@@ -18,6 +18,9 @@ I hope this repository will help you in your journey as a dad.
 - [Contributing](#contribution)
 - [License](#license)
 
+## First steps
+
+Check out the [Introduction](src/introduction.md) to get started.
 
 ## Contribution
 
