@@ -20,7 +20,8 @@ I hope this repository will help you in your journey as a dad.
 
 ## First steps
 
-Check out the [Introduction](src/introduction.md) to get started.
+1. Be a father or become a father
+2. Check out the [Introduction](src/introduction.md) to get started.
 
 ## Contribution
 
