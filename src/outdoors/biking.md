@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-- [Booby Car](#booby-car)
+- [Bobby Car](#booby-car)
 - [Helmets](#helmets)
 - [Balance bike](#balance-bike)
     - [References](#references)
 - [Tricycle](#tricycle)
 - [Kids bike](#kids-bike)
 
-## Booby Car
+## Bobby Car
 
 With the beginning of walking their first steps, kids can get their first non-motorized vehicle.
 We started with the [Bobby Car](https://www.amazon.de/s?k=bobby+car) and a [balance bike](https://www.amazon.de/s?k=balance+bike).
