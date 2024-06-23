@@ -13,7 +13,7 @@
 
 With the beginning of walking their first steps, kids can get their first non-motorized vehicle.
 We started with the [Bobby Car](https://www.amazon.de/s?k=bobby+car) and a [balance bike](https://www.amazon.de/s?k=balance+bike).
-Which is probably a very german thing to do.
+Which is probably a very german thing to do, because the Bobby Car and the balance bike are very popular here.
 
 ## Helmets
 
