@@ -18,13 +18,19 @@ Which is probably a very german thing to do.
 ## Helmets
 
 Helmets are a must-have on every wheeled vehicle.
-You don't think they will fall, but they will.
+You may don't think they will fall, but they will.
 And they can be faster than you think.
+
+![](../../images/helmet.jpeg)
 
 Especially if you want to do night tours, you should get a helmet with a light on it.
 These are often integrated in kids helmets, but should be checked before buying one.
+
+![](../../images/helmet-back.jpeg)
+
 I would also recommend to get into a bicycle store and get an expert on this matter.
 They often have a lot of experience and can help you with the right choice.
+
 
 ## Balance bike
 
