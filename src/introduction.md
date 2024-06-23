@@ -9,3 +9,4 @@ I'm always happy to learn new things and improve my knowledge.
 # Table of Contents
 
 - [Biking](/src/outdoors/biking.md)
+- [Investing](/src/finance/investing.md)
