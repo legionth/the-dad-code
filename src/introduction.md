@@ -10,3 +10,4 @@ I'm always happy to learn new things and improve my knowledge.
 
 - [Biking](/src/outdoors/biking.md)
 - [Investing](/src/finance/investing.md)
+- [FAQ](/src/faq.md)
