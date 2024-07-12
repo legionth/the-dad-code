@@ -18,3 +18,7 @@ We are mammals and mammals sleep together.
 
 The most important thing is that the parents don't drink alcohol, don't smoke, and don't take drugs.
 This can be dangerous for the kids, because under the influence of these substances, the parents can't react properly in a sleeping state.
+
+The second most important thing that everybody feels comfortable.
+Don't force your kids to sleep in the family bed.
+Every body should feel comfortable and safe and if not, you should find another solution.
