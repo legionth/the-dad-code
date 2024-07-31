@@ -28,3 +28,16 @@ These are perfect for cutting soft vegetables like cucumbers, tomatoes or zucchi
 
 ![](../../images/knives.jpeg)
 
+## The hot stuff
+
+When you cooking you need heat.
+And your kids should that heat is part of the cooking process.
+There is nothing to be afraid of, but they have to know that it's hot and if it's handled wrong, it can hurt.
+
+I let my kids operate the pans if we are cooking scrambled eggs.
+Or let them stir the pasta in the pot.
+Just let them figure out on their own. Watch that they don't hurt themselves, but let them do it.
+
+We started as soon as our kids could climb up the learning tower.
+Which was around 1.5 years old.
+And they love it.
