@@ -9,7 +9,7 @@ So you have to get them up to the right height.
 You could use a chair or a stool, but that's not very safe.
 So I would recommend a learning tower.
 
-![](../../images/learning-tower.jpeg)
+![](../../images/learning-tower.jpg)
 
 A learning tower is a stool with a safety bar around it.
 So your kids can't fall out of it, but they can climb in and still reach the counter.
@@ -26,7 +26,7 @@ And cutting your food is one of them.
 As you can see on the photo, you can start with some kids knives.
 These are perfect for cutting soft vegetables like cucumbers, tomatoes or zucchini.
 
-![](../../images/knives.jpeg)
+![](../../images/learning-knives.jpg)
 
 ## The hot stuff
 
