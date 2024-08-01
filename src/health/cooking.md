@@ -1,5 +1,9 @@
 # Cooking
 
+Cooking is one of the most important parts of life.
+And we should teach our kids how to cook as soon as possible.
+
+So have we can include them in modern kitchens?
 
 ## Learning tower
 
