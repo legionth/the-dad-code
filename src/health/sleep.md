@@ -1,6 +1,12 @@
 # Sleep
 
+Sleep is very individual and everybody has different needs.
+In this chapter, I'll try to explain how we manage the sleep of our kids and ourselves.
+
 ## Family bed
+
+_Attention: Newborns have special needs: no blankets, no pillows and a separate area for themselves.
+Otherwise, the danger of suffocation is really high_
 
 The family bed is a bed large enough for the whole family.
 This can be multiple different beds or a big bed.
