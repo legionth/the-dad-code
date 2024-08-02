@@ -9,6 +9,7 @@ I'm always happy to learn new things and improve my knowledge.
 # Table of Contents
 
 - [Cooking](/src/health/cooking.md)
+- [Sleeping](/src/health/sleep.md)
 - [Biking](/src/outdoors/biking.md)
 - [Investing](/src/finance/investing.md)
 - [FAQ](/src/faq.md)
