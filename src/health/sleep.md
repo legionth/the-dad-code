@@ -28,3 +28,26 @@ This can be dangerous for the kids, because under the influence of these substan
 The second most important thing that everybody feels comfortable.
 Don't force your kids to sleep in the family bed.
 Every body should feel comfortable and safe and if not, you should find another solution.
+
+## Sleep training
+
+Sleep training is a scam.
+
+You can't teach newborns or little babies to sleep.
+They are learning how to walk, speak and eat, mostly by themselves.
+And we try to intervene, because it is not convenient for our working hours?
+
+Kids have a natural sleep rhythm, and you have to find out what works for you.
+
+For example, our oldest child slept till 9am-10am in the morning, took a 1h nap at 2pm and
+gone to bed at 10pm-11pm, when we also went to bed.
+It changed when he was 2.5 years and didn't need a nap anymore and had
+to go to kindergarten at 9am. So he had to change his rhythm and wakes up at 8am and goes to bed at 8pm.
+
+Don't force your kids to sleep, they will sleep when they are tired.
+Try to find a rhythm that works for you and your kids.
+
+Funny fact: Sleep training emerged in the 19th century, when the industrial revolution started.
+Parents had to work in factories and the kids had to sleep at a certain time.
+
+If you want to read more about it: https://taylorkulik.com/the-surprising-history-of-sleep-training/
