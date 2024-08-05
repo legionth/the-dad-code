@@ -8,8 +8,11 @@ I'm always happy to learn new things and improve my knowledge.
 
 # Table of Contents
 
-- [Cooking](/src/health/cooking.md)
-- [Sleeping](/src/health/sleep.md)
-- [Biking](/src/outdoors/biking.md)
-- [Investing](/src/finance/investing.md)
+- Indoor
+    - [Cooking](/src/health/cooking.md)
+    - [Sleeping](/src/health/sleep.md)
+-  Outdoor
+    - [Biking](/src/outdoors/biking.md)
+- Finance
+    - [Investing](/src/finance/investing.md)
 - [FAQ](/src/faq.md)
