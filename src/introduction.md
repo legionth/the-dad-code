@@ -13,6 +13,7 @@ I'm always happy to learn new things and improve my knowledge.
     - [Sleeping](/src/health/sleep.md)
 -  Outdoor
     - [Biking](/src/outdoors/biking.md)
+    - [Clothes](/src/outdoors/clothes.md)
 - Finance
     - [Investing](/src/finance/investing.md)
 - [FAQ](/src/faq.md)
