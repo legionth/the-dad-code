@@ -37,7 +37,7 @@ You can't teach newborns or little babies to sleep.
 They are learning how to walk, speak and eat, mostly by themselves.
 And we try to intervene, because it is not convenient for our working hours?
 
-Kids have a natural sleep rhythm, and you have to find out what works for you.
+Kids have a natural sleep rhythm, and you have to find out what works for you and them.
 
 For example, our oldest child slept till 9am-10am in the morning, took a 1h nap at 2pm and
 gone to bed at 10pm-11pm, when we also went to bed.
