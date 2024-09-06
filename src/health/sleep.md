@@ -51,3 +51,22 @@ Funny fact: Sleep training emerged in the 19th century, when the industrial revo
 Parents had to work in factories and the kids had to sleep at a certain time.
 
 If you want to read more about it: https://taylorkulik.com/the-surprising-history-of-sleep-training/
+
+## Bedtime Routine
+
+A bedtime routine helps us a lot and the kids know what to expect.
+We try to do the same things every evening.
+
+1. Dinner
+2. Playtime
+3. Brushing teeth
+4. Toilet
+5. Washing
+6. Creaming
+7. Dressing
+8. Reading a book
+
+The order can change, but the things are nearly the same every evening.
+
+We wait until they really sleep. Our kids are 1 and 3 years old and they sleep in the family bed.
+Older kids may can fall asleep on their own.
