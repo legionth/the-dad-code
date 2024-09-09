@@ -11,6 +11,7 @@ I'm always happy to learn new things and improve my knowledge.
 - Indoor
     - [Cooking](/src/health/cooking.md)
     - [Sleeping](/src/health/sleep.md)
+    - [Books](/src/indoors/books.md)
 -  Outdoor
     - [Biking](/src/outdoors/biking.md)
     - [Clothes](/src/outdoors/clothes.md)
