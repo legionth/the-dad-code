@@ -8,9 +8,11 @@ I'm always happy to learn new things and improve my knowledge.
 
 # Table of Contents
 
-- Indoor
+- Health
+    - [Bonding](/src/health/bonding.md)
     - [Cooking](/src/health/cooking.md)
     - [Sleeping](/src/health/sleep.md)
+- Indoor
     - [Books](/src/indoors/books.md)
 -  Outdoor
     - [Biking](/src/outdoors/biking.md)
