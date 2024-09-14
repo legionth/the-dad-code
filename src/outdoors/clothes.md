@@ -4,6 +4,8 @@ When you're outdoors, the kids need to be dressed based on the weather.
 So I want to give you some tips on how to dress your kids and share same tricks.
 
 ## Table of Contents
+- [Sun hats](#sun-hats)
+- [Wet shoes](#wet-shoes)
 
 ## Sun hats
 
