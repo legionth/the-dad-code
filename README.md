@@ -21,7 +21,22 @@ I hope this repository will help you in your journey as a dad.
 ## First steps
 
 1. Be a father or become a father
-2. Check out the [Introduction](src/introduction.md) to get started.
+2. Check out the content of this repository
+
+- Health
+    - [Bonding](/src/health/bonding.md)
+    - [Cooking](/src/health/cooking.md)
+    - [Sleeping](/src/health/sleep.md)
+    - [Failing](/src/health/failing.md)
+    - [Birth](/src/health/birth.md)
+- Indoor
+    - [Books](/src/indoors/books.md)
+-  Outdoor
+    - [Biking](/src/outdoors/biking.md)
+    - [Clothes](/src/outdoors/clothes.md)
+- Finance
+    - [Investing](/src/finance/investing.md)
+- [FAQ](/src/faq.md)
 
 ## Contribution
 
