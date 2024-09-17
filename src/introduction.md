@@ -13,6 +13,7 @@ I'm always happy to learn new things and improve my knowledge.
     - [Cooking](/src/health/cooking.md)
     - [Sleeping](/src/health/sleep.md)
     - [Failing](/src/health/failing.md)
+    - [Birth](/src/health/birth.md)
 - Indoor
     - [Books](/src/indoors/books.md)
 -  Outdoor
