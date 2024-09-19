@@ -6,3 +6,5 @@ These are just frequently asked questions I have to remind myself of.
 
 You don't understand the game. You are the toy.
 They don't play with the toys, they play with you.
+
+You are the toy.
